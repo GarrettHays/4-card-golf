@@ -7,7 +7,7 @@
 ## Technologies Used
 
 - _html_
-- _css_
+- _css_ 
 - _javascript_
 - _bootstrap_
 - _jquery_
