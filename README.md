@@ -43,7 +43,7 @@ Multiples of any numerical card cancel those cards and count as zero points (2, 
 Each King scores zero points.
 The player who has the lowest cumulative score after nine deals wins._
 
-- [x] _This project's GitHub repo can be found at the following link_ [GitHub](https://github.com/joeroaden/4-card-golf).
+- [x] _This project's GitHub repo can be found at the following link_ [GitHub](https://github.com/GarrettHays/4-card-golf).
 
 ## Setup/Installation Requirements
 
